@@ -23,13 +23,13 @@
   </parent>
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.apache.commons</groupId>
-  <artifactId>commons-cli</artifactId>
+  <artifactId>commons-cli2</artifactId>
   <version>2.0-SNAPSHOT</version>
-  <name>Commons CLI</name>
+  <name>Commons CLI2</name>
 
   <inceptionYear>2002</inceptionYear>
   <description>
-    Commons CLI provides a simple API for presenting, processing and validating a command line interface.
+    Commons CLI2 provides a simple API for presenting, processing and validating a command line interface.
   </description>
 
   <url>http://commons.apache.org/sandbox/cli2/</url>
@@ -144,8 +144,8 @@
   </dependencies>
 
   <properties>
-    <commons.componentid>cli</commons.componentid>
-    <commons.release.name>commons-cli-${commons.release.version}</commons.release.name>
+    <commons.componentid>cli2</commons.componentid>
+    <commons.release.name>commons-cli2-${commons.release.version}</commons.release.name>
     <commons.osgi.symbolicName>org.apache.commons.cli2</commons.osgi.symbolicName>
     <commons.release.version>2.0</commons.release.version>
     <commons.binary.suffix></commons.binary.suffix>
